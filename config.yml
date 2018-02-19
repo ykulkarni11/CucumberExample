@@ -27,6 +27,7 @@ jobs:
           - v1-dependencies-
 
       - run: yarn install
+             npm install -g cucumber
 
       - save_cache:
           paths:
