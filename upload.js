@@ -14,10 +14,10 @@
 	    // set content-type header and data as json in args parameter 
 	    var args = {
 	        data: {
-	            "apiKey": "b4c2f6dd2df706fa07c35d4032c3db5f1379",
+	            "apiKey": "311bc1af691eba5addee39fe15f5c836bc55a726eef287d1d9c8f98e1951aa0f",
 	            "format": "cucumber/json",
-	            "testRunName": "New Test Run",
-	            "platform": "IOS"
+	            "testRunName": "My Test Run1",
+	            
 
 	            // You can uncomment the below object and pass other optional paramets alongwith the required ones.
 	            // "testAssetHierarchy": "TestCase-TestStep" or "TestScenario-TestCase",
